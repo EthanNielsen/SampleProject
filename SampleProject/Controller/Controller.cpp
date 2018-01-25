@@ -16,14 +16,8 @@ Controller :: Controller()
     
     double Answer [2]  = {true,false};
     
-    char names [4][10];
+    char names [4][10] = {"Samantha","Ben","John","Alex"};
 }
-
-public names
-{
-    
-}
-
 
 void Controller :: Start()
 {
