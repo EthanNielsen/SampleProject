@@ -17,6 +17,8 @@ Controller :: Controller()
     double Answer [2]  = {true,false};
     
     char names [4][10] = {"Samantha","Ben","John","Alex"};
+    
+    char myName [1][6] = {"Ethan"};
 }
 
 void Controller :: Start()
@@ -25,5 +27,7 @@ void Controller :: Start()
     {
         cout << "This is the " << index << " time in the loop" << endl;
     }
+    
+    
 }
 
