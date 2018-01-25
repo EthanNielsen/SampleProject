@@ -22,10 +22,14 @@ protected:
 public:
     //Externally visible.
     Controller();
-    void Start(); //This creates a start method
-
-//    std; std::string super_string;
+    void Start();
+    
+    
+//    int EasyAs [3] = {1,2,3};     You usually declare arrays int the Controller.cpp not the header.
 //
+//    double Answer [2]  = {true,false};
+//
+//    std; std::string super_string;
 //    string tree [3] = {"o","n","e"};
 };
 

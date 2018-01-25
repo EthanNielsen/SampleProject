@@ -12,8 +12,18 @@ using namespace std; //In order to use the keywords you need to have this line.
 
 Controller :: Controller()
 {
+    int EasyAs [3] = {1,2,3};
+    
+    double Answer [2]  = {true,false};
+    
+    char names [4][10];
+}
+
+public names
+{
     
 }
+
 
 void Controller :: Start()
 {
@@ -23,4 +33,3 @@ void Controller :: Start()
     }
 }
 
-public 
