@@ -9,6 +9,8 @@
 #ifndef Controller_hpp
 #define Controller_hpp
 
+#include <iostream>
+
 class Controller
 {
 private:
@@ -23,3 +25,5 @@ public:
 };
 
 #endif /* Controller_hpp */
+
+
