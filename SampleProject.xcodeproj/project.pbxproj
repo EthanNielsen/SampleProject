@@ -61,16 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				280D37E7201A5E6D00FCC559 /* Controller */,
-				280D37E5201A5E5A00FCC559 /* Runner */,
 			);
 			path = SampleProject;
-			sourceTree = "<group>";
-		};
-		280D37E5201A5E5A00FCC559 /* Runner */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Runner;
 			sourceTree = "<group>";
 		};
 		280D37E7201A5E6D00FCC559 /* Controller */ = {

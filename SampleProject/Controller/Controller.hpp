@@ -9,6 +9,15 @@
 #ifndef Controller_hpp
 #define Controller_hpp
 
-#include <stdio.h>
+class Controller
+{
+private:
+    //Just like Java
+    //data members are internal methods
+protected:
+    //Used for inheritance
+public:
+    //Externally visible.
+};
 
 #endif /* Controller_hpp */

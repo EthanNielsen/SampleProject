@@ -6,4 +6,10 @@
 //  Copyright © 2018 Ctech. All rights reserved.
 //
 
-#include "Runner.hpp"
+#include"Controller.hpp"
+
+int main()
+{
+    Controller app;
+    app.start();
+}
