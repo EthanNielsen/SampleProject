@@ -10,6 +10,7 @@
 #define Controller_hpp
 
 #include <iostream>
+//#include <string>
 
 class Controller
 {
@@ -22,6 +23,10 @@ public:
     //Externally visible.
     Controller();
     void Start(); //This creates a start method
+
+//    std; std::string super_string;
+//
+//    string tree [3] = {"o","n","e"};
 };
 
 #endif /* Controller_hpp */
