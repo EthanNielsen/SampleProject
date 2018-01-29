@@ -19,6 +19,8 @@ Controller :: Controller()
     char names [4][10] = {"Samantha","Ben","John","Alex"};
     
     char myName [1][6] = {"Ethan"};
+    
+    cout << &myName << endl;
 }
 
 void Controller :: Start()
@@ -28,6 +30,9 @@ void Controller :: Start()
         cout << "This is the " << index << " time in the loop" << endl;
     }
     
-    
+    for (int index = 13; index < 31; index++)
+    {
+        cout << "This is number " << index << endl;
+    }
 }
 
